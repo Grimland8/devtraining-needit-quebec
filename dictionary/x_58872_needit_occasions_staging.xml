@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="import_attribute_name=Cotton" label="Cotton" max_length="40" name="u_cotton" type="integer"/>
+        <element attributes="import_attribute_name=Crystal" label="Crystal" max_length="40" name="u_crystal" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fabric" label="Fabric" max_length="40" name="u_fabric" type="string"/>
+        <element attributes="import_attribute_name=Flax" label="Flax" max_length="40" name="u_flax" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=K" label="K" max_length="40" name="u_k" type="string"/>
+        <element attributes="import_attribute_name=Log" label="Log" max_length="40" name="u_log" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=M" label="M" max_length="40" name="u_m" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=R" label="R" max_length="40" name="u_r" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rough Fabric" label="Rough Fabric" max_length="40" name="u_rough_fabric" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sell" label="Sell" max_length="40" name="u_sell" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sell (L)" label="Sell (L)" max_length="40" name="u_sell__l_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sell (S)" label="Sell (S)" max_length="40" name="u_sell__s_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stone" label="Stone" max_length="40" name="u_stone" type="string"/>
+        <element attributes="import_attribute_name=Stone Block" label="Stone Block" max_length="40" name="u_stone_block" type="integer"/>
+        <element attributes="import_attribute_name=Stone (N)" label="Stone (N)" max_length="40" name="u_stone__n_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=T" label="T" max_length="40" name="u_t" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Wood Board" label="Wood Board" max_length="40" name="u_wood_board" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Wood Log" label="Wood Log" max_length="40" name="u_wood_log" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=?? Bar" label="?? Bar" max_length="40" name="u____bar" type="string"/>
+    </element>
+</database>
